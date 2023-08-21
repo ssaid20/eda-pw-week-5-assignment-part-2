@@ -1,0 +1,32 @@
+/* Apply a reset margin to the body */
+body {
+    margin: 0;
+    background-image: url('record.png');
+    background-repeat: repeat;
+  }
+  
+  /* Style for the header element */
+  .header {
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    padding: 1em;
+  }
+  
+  /* Style for the h2 element within the header */
+  .header h2 {
+    margin: 0; /* Remove margin for h2 inside header */
+  }
+  
+  /* Style for the main content area */
+  .main {
+    background-color: lightgrey;
+    padding: 1em;
+    
+  }
+  
+  /* Style for the paragraph within main */
+  .main p {
+    margin: 0; /* Remove margin for paragraphs inside main */
+  }
+  
